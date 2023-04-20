@@ -23,7 +23,6 @@ export default defineConfig({
     entryFile: './src/index.ts',
   },
   // 使用gh-pages部署
-  runtimePublicPath: true,
   base: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
   publicPath: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
   // 将所有路由输出为 HTML 目录结构，以免刷新页面时 404
