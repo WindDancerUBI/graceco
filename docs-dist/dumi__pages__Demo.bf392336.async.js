@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wind_design_graceco=self.webpackChunk_wind_design_graceco||[]).push([[448],{65149:function(f,n,e){e.r(n),e.d(n,{default:function(){return t}});var a=e(14570),o=e(67294),r=function(){var s=(0,a.UO)(),u=s.id,c=(0,a.WF)(),m=c.demos,i=m[u]||{},d=i.component;return d&&(0,o.createElement)(d)},t=r}}]);
